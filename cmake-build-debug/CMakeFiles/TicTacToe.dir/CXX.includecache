@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Engine.cpp
+Engine.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Engine.h
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Engine.h
+stdio.h
+-
+iostream
+-
+fstream
+-
+stdexcept
+-
+Position.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Position.h
+Size.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Size.h
+Layout.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Layout.h
+Player.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Player.h
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Layout.h
+vector
+-
+stdio.h
+-
+string.h
+-
+iostream
+-
+stdexcept
+-
+Size.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Size.h
+Position.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Position.h
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Player.h
+iostream
+-
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Position.h
+stdio.h
+-
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/TicTacToe/Size.h
+stdio.h
+-
+
